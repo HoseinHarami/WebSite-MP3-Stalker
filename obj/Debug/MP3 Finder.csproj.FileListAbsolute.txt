@@ -1,0 +1,6 @@
+c:\users\hosein\documents\visual studio 2013\Projects\MP3 Finder\bin\Debug\MP3 Finder.exe.config
+c:\users\hosein\documents\visual studio 2013\Projects\MP3 Finder\obj\Debug\MP3 Finder.csprojResolveAssemblyReference.cache
+c:\users\hosein\documents\visual studio 2013\Projects\MP3 Finder\bin\Debug\MP3 Finder.exe
+c:\users\hosein\documents\visual studio 2013\Projects\MP3 Finder\bin\Debug\MP3 Finder.pdb
+c:\users\hosein\documents\visual studio 2013\Projects\MP3 Finder\obj\Debug\MP3 Finder.exe
+c:\users\hosein\documents\visual studio 2013\Projects\MP3 Finder\obj\Debug\MP3 Finder.pdb
